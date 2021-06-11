@@ -27,7 +27,6 @@ Yes.Font = Enum.Font.SourceSans
 Yes.Text = "Yes"
 Yes.TextColor3 = Color3.new(0, 0, 0)
 Yes.TextSize = 30
-Yes.MouseButton1Down:connect(function()
 
 No.Name = "No"
 No.Parent = GUI
