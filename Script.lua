@@ -2,9 +2,6 @@ local ScreenGui = Instance.new("ScreenGui")
 local GUI = Instance.new("Frame")
 local Yes = Instance.new("TextButton")
 local No = Instance.new("TextButton")
-local VisualLVL = Instance.new("TextButton")
-local RemoveDoors = Instance.new("TextButton")
-local AutoReload = Instance.new("TextButton")
 local Credits = Instance.new("TextLabel")
 
 ScreenGui.Parent = game.CoreGui
